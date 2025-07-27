@@ -1,0 +1,11 @@
+{
+  "name": "vaibhav-ai-code-builder",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^1.0.0",
+    "@vercel/node": "^2.15.3"
+  }
+}
