@@ -1,0 +1,7 @@
+vaibhav-ai-code-builder/
+├── public/          # Frontend files
+│   └── index.html   # Main HTML file
+├── api/             # Backend API (Vercel serverless)
+│   └── generate.js  # Gemini API handler
+├── vercel.json      # Vercel config
+└── package.json     # Node.js dependencies
